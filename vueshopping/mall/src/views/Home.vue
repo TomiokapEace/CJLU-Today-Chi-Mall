@@ -66,7 +66,7 @@ export default {
     return {
       hasToken: false,
       icon: icon,
-      mallName: '好 名 字 商 城',
+      mallName: '今 吃 网 商 城',
       userInform: {
         nickname: '',
         userImg: '',
