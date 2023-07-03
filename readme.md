@@ -34,7 +34,7 @@ npm run serve
 ![image-20230703162621742](https://adguycn990-typoraimage.oss-cn-hangzhou.aliyuncs.com/202307031632601.png)
 
 2. 配置数据库
-3. 
+
 ![image-20230703162823033](https://adguycn990-typoraimage.oss-cn-hangzhou.aliyuncs.com/202307031632120.png)
 
 点击该文件，即可发现如下数据：
