@@ -34,6 +34,7 @@ npm run serve
 ![image-20230703162621742](https://adguycn990-typoraimage.oss-cn-hangzhou.aliyuncs.com/202307031632601.png)
 
 2. 配置数据库
+3. 
 ![image-20230703162823033](https://adguycn990-typoraimage.oss-cn-hangzhou.aliyuncs.com/202307031632120.png)
 
 点击该文件，即可发现如下数据：
@@ -59,11 +60,12 @@ npm run serve
 3. 启动后端服务
 
 找到` ShoppingApplication.java `这个文件，使其运行起来。在控制台中看到如下信息就表示后端服务启动成功：
+
 ![image-20230703172715423](https://adguycn990-typoraimage.oss-cn-hangzhou.aliyuncs.com/202307031727918.png)
 
 ## 验证
 
-此时可以返回前端的网页：http://localhost:8081/#/index，随便点点看看是否能够操作成功。
+此时可以返回前端的网页，随便点点看看是否能够操作成功：http://localhost:8081/#/index
 
 
 # 顾客模块
