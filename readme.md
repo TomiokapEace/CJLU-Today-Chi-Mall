@@ -21,7 +21,7 @@ npm install
 npm run serve
 ```
 
-若终端出现以下信息，并且能在浏览器中成功显示http://localhost:8081/页面，说明前端启动成功
+若终端出现以下信息，并且能在浏览器中成功显示[http://localhost:8081/](http://localhost:8081/)页面，说明前端启动成功
 
 ![image-20230703162218089](https://adguycn990-typoraimage.oss-cn-hangzhou.aliyuncs.com/202307031622122.png)
 
