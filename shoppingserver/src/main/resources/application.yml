@@ -1,7 +1,7 @@
 spring:
   datasource:
     username: root
-    password: jinhui123
+    password: 123456
     url: jdbc:mysql://127.0.0.1:3306/mall?useUnicode=true&characterEncoding=utf-8&serverTimezone=GMT%2b8&sessionVariables=sql_mode='NO_ENGINE_SUBSTITUTION'&jdbcCompliantTruncation=false&zeroDateTimeBehavior=convertToNull
     driver-class-name: com.mysql.cj.jdbc.Driver
   jackson:
