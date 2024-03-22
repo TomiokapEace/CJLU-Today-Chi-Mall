@@ -3,7 +3,9 @@
 - 所需环境：NodeJs、Vue、maven、JDK11、MySQL、VSCode
 - 建议安装：Git（代码管理）、Navicat或者dBeaver（数据库管理），VSCode可以使用MYSQL插件
 
-备注：nodejs版本不能太新 我的：v16.20.2
+备注：
+nodejs版本不能太新 我的：v16.20.2
+以上环境在设置环境变量时需要将文件夹权限全部打开，以免遇到麻烦。教程网上都比较全。
 
 ## 前端
 
